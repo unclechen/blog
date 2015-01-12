@@ -1,2 +1,2 @@
 # blog
-unclechen's blog (published as a Project Pages )
+unclechen's blog (published as Project Pages )
